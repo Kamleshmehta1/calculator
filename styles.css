@@ -1,0 +1,56 @@
+body {
+    background-color: burlywood;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    margin: 1px;
+    color: white;
+}
+
+.btn {
+    height: 100px;
+    width: 100px;
+    margin: 1.5px;
+}
+
+input[type="text"] {
+    font-size: 50px;
+    color: white;
+    text-align: right;
+
+}
+
+p {
+    height: 100px;
+    background-color: purple;
+    width: 408px;
+    margin-bottom: 1px;
+}
+
+
+.container {
+    margin: 50px auto auto 50px;
+    box-shadow: violet;
+}
+
+.text-1 {
+    height: 100px;
+    width: 408px;
+    border: 2px solid thistle;
+    border-radius: 10px;
+    background-color: purple;
+    font-size: 20px;
+
+}
+
+::placeholder {
+    color: white;
+    font-size: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+}
